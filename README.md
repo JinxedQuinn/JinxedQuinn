@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+## Mes Contributions
+
+Vous pouvez voir mes contributions dans le tableau ci-dessous.
+
+[![Mes Contributions](https://github.com/JinxedQuinn?tab=repositories)](https://github.com/JinxedQuinn?tab=repositories)
+
 <!--
 **JinxedQuinn/JinxedQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
